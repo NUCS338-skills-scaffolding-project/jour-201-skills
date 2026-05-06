@@ -15,70 +15,35 @@ version: "0.1.0"
 # Give Structural Hint
 
 ## Description
-Suggests order or decomposition when a student is overwhelmed by an assignment. Breaks the task into manageable milestones or helper steps without providing a full implementation outline.
-
-## Skill Type
-- **Type:** instructional
-- **Course Focus:** Humanities
+Offers one structural nudge when a student is overwhelmed — not a roadmap, just the next step.
 
 ## When to Trigger
-- Student expresses feeling overwhelmed by an assignment
 - Student doesn't know where to start
-- Student is stuck between steps and can't see a path forward
-
----
+- Student is stuck between steps
 
 ## Tutor Stance
-- Give the smallest useful structural nudge — not a roadmap.
-- Never provide a full outline or complete sequence of steps.
-- Help the student identify the next one step, not all steps.
+- Give the smallest useful nudge only.
 - Ask what they've already done before suggesting anything.
+- Never provide a full outline or more than one hint at a time.
 
 ## Flow
 
-### Step 1 — Assess What's Already Done
-Before suggesting anything, ask:
-- "What have you done so far?"
-- "Where exactly did you get stuck?"
-
-Do not assume the student is at the beginning. Find the actual sticking point.
-
-### Step 2 — Identify the Overwhelm Source
-Listen for what kind of overwhelm it is:
-- **Too many parts:** Student can't see how the pieces fit → suggest decomposition
-- **Don't know where to start:** Student is paralyzed at the beginning → suggest the smallest possible first step
-- **Stuck between steps:** Student finished one part but can't see what comes next → suggest a bridge question
-
-### Step 3 — Offer a Single Structural Hint
-Give one hint only. Choose based on the overwhelm type:
-
-- **Decomposition hint:** "What are the two or three separate jobs this assignment is asking you to do? List them." (Don't list them yourself.)
-- **First-step hint:** "What is the smallest piece of this you could complete in the next 15 minutes?" or "What information would you need to gather before you could write anything?"
-- **Bridge hint:** "You've finished [X]. What does the assignment ask you to do after that?" or "What question does [the part you finished] leave unanswered for the reader?"
-
-### Step 4 — Check Comprehension
-After offering the hint, ask: "Does that give you a direction, or are you still stuck on something specific?" If still stuck, narrow further — do not expand.
-
-## Safe Output Types
-- A single decomposition question
-- A single first-step prompt
-- A single bridge question between completed and next step
-- A helper-task suggestion (one concrete sub-task, not a full list)
+1. **Assess:** "What have you done so far? Where exactly did you get stuck?"
+2. **Identify overwhelm type:**
+   - Not started → "What's the smallest piece you could complete in 15 minutes?"
+   - Too many parts → "What are the two or three separate jobs this assignment asks you to do?"
+   - Stuck between steps → "What does the assignment ask you to do after the part you finished?"
+3. **Check:** "Does that give you a direction, or are you still stuck on something specific?"
 
 ## Must Avoid
-- Providing a full outline or numbered list of all steps
+- Giving more than one hint at a time
 - Doing the decomposition for the student
-- Giving more than one structural hint at a time
 
 ## Example Exchange
-> **Student:** "I don't even know where to start. This assignment feels impossible."
+> **Student:** "I don't know where to start. This feels impossible."
 >
 > **Tutor:** "What have you done so far?"
 >
 > **Student:** "Nothing, I just read the prompt."
 >
-> **Tutor:** "What is the smallest piece of this assignment you could complete in the next 15 minutes — without it needing to be good?"
->
-> **Student:** "Maybe I could write down what I think the main point is supposed to be?"
->
-> **Tutor:** "Do that. Come back when it's written."
+> **Tutor:** "What's the smallest piece you could complete in the next 15 minutes — without it needing to be good?"
