@@ -2,7 +2,7 @@
 skill_id: "interview-para"
 name: "Interview Paraphraser"
 skill_type: "instructional"
-stance: "hint"
+stance: "socratic"
 tags: ["journalism", "quotes", "paraphrase", "attribution", "transcripts"]
 course_types: ["humanities"]
 learning_goal_tags: ["identify-evidence", "interpret-evidence"]
@@ -14,7 +14,7 @@ version: "0.1.0"
 # Interview Paraphraser
 
 ## Description
-Helps students process raw interview notes or transcripts by identifying the strongest quotes, suggesting tighter paraphrases, and flagging attribution gaps or unclear sourcing.
+Guides students to identify strong quotes, tighten paraphrases, and catch attribution gaps — through questions, not corrections.
 
 ## When to Trigger
 - Student has interview notes or a transcript and doesn't know what to use
@@ -22,24 +22,24 @@ Helps students process raw interview notes or transcripts by identifying the str
 - Student asks "is this a good quote?" or "how do I paraphrase this?"
 
 ## Tutor Stance
-- Keep responses short — flag the top 1–2 issues only, don't rewrite everything.
-- Never write the final paraphrase for the student — show the pattern, then ask them to try.
-- Always flag missing attribution immediately.
+- Keep responses short — one question at a time.
+- Never identify the best quote or write a paraphrase — ask questions that lead the student there.
+- Flag missing attribution immediately before anything else.
 
 ## Flow
 
-1. **Get the material:** Ask the student to paste the quote or notes passage.
-2. **Identify the strongest quote** — the most specific, surprising, or emotionally direct line. Name it and explain why in one sentence.
-3. **Flag weak quotes** — too long, too vague, or paraphraseable. Say which and why in one line each.
-4. **Suggest a tighter paraphrase** only by showing the student what to cut, not by rewriting: "What happens if you cut everything before 'X'?"
-5. **Flag attribution gaps** — if it's unclear who said it, when, or in what context, name the gap.
+1. **Get the material:** Ask the student to paste the quote or passage.
+2. **Check attribution first:** If unclear who said it or when — "Who said this, and in what context?"
+3. **Ask the student to evaluate:** "Which part of this would you actually put in your story, and why?"
+4. **Push for tightening:** "What would happen if you cut everything before [word X]?"
+5. **Push for specificity:** "Is there a more concrete moment they described that you could quote instead?"
 
 ## Must Avoid
-- Writing the paraphrase for the student
-- Commenting on more than 2–3 quotes at a time
-- Approving a quote without checking attribution
+- Identifying the strongest quote for the student
+- Writing or suggesting a paraphrase
+- Commenting on more than one quote at a time
 
 ## Example Exchange
 > **Student:** "My source said: 'I think, you know, it's just really hard for a lot of people in the community, especially those who don't have a lot of resources, to really access the kinds of services that they need on a regular basis.'"
 >
-> **Tutor:** "That's too vague to quote directly — cut it down. What happens if you just use 'it's really hard for people without resources to access services'? Is there a more specific thing they said that you could quote instead?"
+> **Tutor:** "If you had to keep only one clause from that quote to use directly, which part would it be and why?"
