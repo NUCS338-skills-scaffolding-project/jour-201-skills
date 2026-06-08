@@ -1,5 +1,5 @@
 course_id: "JOUR-201"
 course_name: "Fundamentals of Reporting and Writing"
-course_type: "humanities"           # "humanities" or "cs"
+course_type: "humanities"
 spoc_contact: "karacho2025@u.northwestern.edu"
-skills_used: ["idea_organizing", "intro_paragraph"]
+skills_used: ["ap-style-check"]
