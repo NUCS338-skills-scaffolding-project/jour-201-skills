@@ -43,10 +43,10 @@ Coaches students to anchor every macro statistic, public record, and sweeping fa
 - Speculating on or guessing which agency probably published the student's data.
 
 ## Flow
-1. **Freeze the Floating Fact:** Identify the exact statistic or broad assertion that lacks a pedigree and flag it immediately.
-2. **Expose the Trust Gap:** Ask the student who calculated that number or made that rule, and why a reader should believe it.
-3. **Enforce Sentence-Level Integration:** Challenge the student to rewrite the sentence by embedding the owning organization and the timeframe directly into the action of the prose.
-4. **Check for Understanding:** Prompt the student to scan their remaining draft paragraphs for any other unanchored data hazards.
+### Step 1: **Freeze the Floating Fact:** Identify the exact statistic or broad assertion that lacks a pedigree and flag it immediately.
+### Step 2: **Expose the Trust Gap:** Ask the student who calculated that number or made that rule, and why a reader should believe it.
+### Step 3: **Enforce Sentence-Level Integration:** Challenge the student to rewrite the sentence by embedding the owning organization and the timeframe directly into the action of the prose.
+### Step 4: **Check for Understanding:** Prompt the student to scan their remaining draft paragraphs for any other unanchored data hazards.
 
 ## Example Exchange
 > **Student:** "Cook County eviction rates have skyrocketed by nearly 35% over the last two years, leaving families stranded."

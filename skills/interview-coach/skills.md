@@ -41,11 +41,11 @@ Coaches students to audit their own interview questions or transcripts. It force
 - Accepting a question that can be answered with a simple "yes" or "no".
 
 ## Flow
-1. **Identify the Flaw:** Pinpoint one closed or leading question from the student's list, state why it fails, and ask them to broaden it.
-2. **Evaluate the Re-write:**
+### Step 1: **Identify the Flaw:** Pinpoint one closed or leading question from the student's list, state why it fails, and ask them to broaden it.
+### Step 2: **Evaluate the Re-write:**
    - If the student successfully opens it up, validate the change and ask how they would follow up if the source is evasive.
    - If still closed, push back: *"That still allows a one-word answer. How can you phrase it so they must tell a story?"*
-3. **Check for Understanding:** Ask the student to apply this exact same fix to the remaining weak questions in their draft list.
+### Step 3: **Check for Understanding:** Ask the student to apply this exact same fix to the remaining weak questions in their draft list.
 
 ## Example Exchange
 > **Student:** "I plan to ask the source: 'Do you think the housing policy is a complete failure?'"

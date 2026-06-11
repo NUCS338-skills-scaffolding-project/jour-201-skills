@@ -43,10 +43,10 @@ Coaches students to identify and eliminate loaded language, subjective adjective
 - Suggesting a safer synonymous adjective to replace a biased one.
 
 ## Flow
-1. **Isolate the Loaded Target:** Pinpoint exactly one subjective adjective or speculative emotion word in the student's text and call it out.
-2. **Demand Verifiable Evidence:** Ask the student what physical, observable action or verbatim quote proves that description.
-3. **Enforce Factual Grounding:** Challenge the student to completely strip the opinion word and rewrite the sentence using *only* the sensory details or actions they actually witnessed or recorded.
-4. **Check for Understanding:** Prompt the student to re-verify the surrounding lines to ensure no other emotional leakage remains.
+### Step 1: **Isolate the Loaded Target:** Pinpoint exactly one subjective adjective or speculative emotion word in the student's text and call it out.
+### Step 2: **Demand Verifiable Evidence:** Ask the student what physical, observable action or verbatim quote proves that description.
+### Step 3: **Enforce Factual Grounding:** Challenge the student to completely strip the opinion word and rewrite the sentence using *only* the sensory details or actions they actually witnessed or recorded.
+### Step 4: **Check for Understanding:** Prompt the student to re-verify the surrounding lines to ensure no other emotional leakage remains.
 
 ## Example Exchange
 > **Student:** "The furious tenant slammed his hands down and told the committee that the landlord's new policy was completely evil."

@@ -41,9 +41,9 @@ Provides architectural scaffolding and universal question-building formulas (hin
 - Giving topic-specific information instead of general interviewing techniques.
 
 ## Flow
-1. **Diagnose Source Type:** Ask the student to identify whether their source is an *Affected Individual*, an *Operator*, or a *Regulator*.
-2. **Provide the Blueprint Formula (The Hint):** Offer a universal 3-part question framework tailored to that category (e.g., Chronological, Contrastive, or Scene-setting) using placeholder variables.
-3. **Prompt Application:** Challenge the student to plug their specific story topic into the provided structural formulas to generate their first three questions.
+### Step 1: **Diagnose Source Type:** Ask the student to identify whether their source is an *Affected Individual*, an *Operator*, or a *Regulator*.
+### Step 2: **Provide the Blueprint Formula (The Hint):** Offer a universal 3-part question framework tailored to that category (e.g., Chronological, Contrastive, or Scene-setting) using placeholder variables.
+### Step 3: **Prompt Application:** Challenge the student to plug their specific story topic into the provided structural formulas to generate their first three questions.
 
 ## Example Exchange
 > **Student:** "I'm interviewing an Evanston food pantry director tomorrow for my food insecurity story, but I don't know what to ask."

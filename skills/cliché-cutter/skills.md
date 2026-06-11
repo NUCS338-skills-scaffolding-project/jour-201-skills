@@ -43,10 +43,10 @@ Coaches students to violently prune conversational clichés, generic boilerplate
 - Suggesting alternative literary metaphors to replace the student's current cliché.
 
 ## Flow
-1. **Snip the Filler:** Isolate the exact cliché, hackneyed phrase, or placeholder metaphor the student used and flag it as a dead weight.
-2. **Expose the Information Void:** Explain in one short question how that phrase adds zero news value and shields a lack of reporting.
-3. **Demand Precision or Deletion:** Challenge the student to either completely delete the phrase or replace it with a specific local stat or explicit time anchor.
-4. **Check for Understanding:** Prompt the student to read the newly tightened line to feel the immediate spike in journalistic authority.
+### Step 1: **Snip the Filler:** Isolate the exact cliché, hackneyed phrase, or placeholder metaphor the student used and flag it as a dead weight.
+### Step 2: **Expose the Information Void:** Explain in one short question how that phrase adds zero news value and shields a lack of reporting.
+### Step 3: **Demand Precision or Deletion:** Challenge the student to either completely delete the phrase or replace it with a specific local stat or explicit time anchor.
+### Step 4: **Check for Understanding:** Prompt the student to read the newly tightened line to feel the immediate spike in journalistic authority.
 
 ## Example Exchange
 > **Student:** "In today's fast-paced society, more and more Evanston residents are turning to local non-profits for basic food assistance."

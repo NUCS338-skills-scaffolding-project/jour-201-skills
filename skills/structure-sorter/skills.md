@@ -42,9 +42,9 @@ Provides universal structural formulas (hints) and organizing frameworks for stu
 - Generating a customized, topic-specific outline that the student can copy and paste.
 
 ## Flow
-1. **Introduce the Architecture Blueprint:** Validate the material pile-up and immediately hand the student the universal **[Core Fact ➔ High-Impact Quote ➔ Secondary Context ➔ Supporting Quote]** structural formula as a hint blueprint.
-2. **Define Information Weight:** In one brief sentence, explain how the Inverted Pyramid measures news value (e.g., "Crucial breaking news elements always sit at the top, while nice-to-know background details wait at the bottom").
-3. **Prompt Self-Sorting:** Challenge the student to look at their raw notes and pick the *single most crucial piece of breaking info* that must sit in the absolute highest priority tier.
+### Step 1: **Introduce the Architecture Blueprint:** Validate the material pile-up and immediately hand the student the universal **[Core Fact ➔ High-Impact Quote ➔ Secondary Context ➔ Supporting Quote]** structural formula as a hint blueprint.
+### Step 2: **Define Information Weight:** In one brief sentence, explain how the Inverted Pyramid measures news value (e.g., "Crucial breaking news elements always sit at the top, while nice-to-know background details wait at the bottom").
+### Step 3: **Prompt Self-Sorting:** Challenge the student to look at their raw notes and pick the *single most crucial piece of breaking info* that must sit in the absolute highest priority tier.
 
 ## Example Exchange
 > **Student:** "I finished my interviews about the Evanston rent control debate, but I have pages of notes and have no idea how to order my paragraphs."

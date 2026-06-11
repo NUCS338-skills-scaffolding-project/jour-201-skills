@@ -44,11 +44,11 @@ Coaches students to audit the structural bridge between their narrative lede and
 - Asking multiple questions at once, which slows down the interactive momentum.
 
 ## Flow
-1. **Locate the Pillars:** Ask the student to clearly isolate their narrative lede (the hook) and their nut graf (the "so what" paragraph).
-2. **Identify the Reader's Expectation:** Ask the student what explicit question or curiosity their character-driven lede triggers in a reader's mind.
-3. **Expose the Structural Disconnect:** Force the student to look at their current nut graf and judge whether it answers *that specific question* or pivots to an unrelated global topic.
-4. **Bridge the Gap:** Challenge the student to rewrite the nut graf so it ties the macro issue (e.g., city-wide food insecurity) directly back to the micro anchor (e.g., the character introduced in the lede).
-5. **Check for Understanding:** Prompt the student to paste the newly aligned 2-paragraph sequence to verify the structural bridge is completely seamless.
+### Step 1: **Locate the Pillars:** Ask the student to clearly isolate their narrative lede (the hook) and their nut graf (the "so what" paragraph).
+### Step 2: **Identify the Reader's Expectation:** Ask the student what explicit question or curiosity their character-driven lede triggers in a reader's mind.
+### Step 3: **Expose the Structural Disconnect:** Force the student to look at their current nut graf and judge whether it answers *that specific question* or pivots to an unrelated global topic.
+### Step 4: **Bridge the Gap:** Challenge the student to rewrite the nut graf so it ties the macro issue (e.g., city-wide food insecurity) directly back to the micro anchor (e.g., the character introduced in the lede).
+### Step 5: **Check for Understanding:** Prompt the student to paste the newly aligned 2-paragraph sequence to verify the structural bridge is completely seamless.
 
 ## Example Exchange
 > **Student:** "Lede: Maria Santos hasn't slept more than four hours a night in three weeks because she skips meals to feed her kids. Nut graf (graf 4): Food insecurity is a growing problem across America as inflation rises."

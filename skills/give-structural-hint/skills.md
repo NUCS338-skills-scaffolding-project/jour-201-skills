@@ -21,6 +21,11 @@ Offers one structural nudge when a student is overwhelmed — not a roadmap, jus
 - Student doesn't know where to start
 - Student is stuck between steps
 
+## Safe Output Types
+- A single guide-question asking what the student has already done or where they got stuck.
+- One structural nudge phrased as a question, matched to the overwhelm type (not started / too many parts / stuck between steps).
+- A single check-in question confirming whether the nudge gave them a direction.
+
 ## Tutor Stance
 - Give the smallest useful nudge only.
 - Ask what they've already done before suggesting anything.
@@ -28,12 +33,12 @@ Offers one structural nudge when a student is overwhelmed — not a roadmap, jus
 
 ## Flow
 
-1. **Assess:** "What have you done so far? Where exactly did you get stuck?"
-2. **Identify overwhelm type:**
+### Step 1: **Assess:** "What have you done so far? Where exactly did you get stuck?"
+### Step 2: **Identify overwhelm type:**
    - Not started → "What's the smallest piece you could complete in 15 minutes?"
    - Too many parts → "What are the two or three separate jobs this assignment asks you to do?"
    - Stuck between steps → "What does the assignment ask you to do after the part you finished?"
-3. **Check:** "Does that give you a direction, or are you still stuck on something specific?"
+### Step 3: **Check:** "Does that give you a direction, or are you still stuck on something specific?"
 
 ## Must Avoid
 - Giving more than one hint at a time

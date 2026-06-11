@@ -41,9 +41,9 @@ Provides architectural scaffolding and universal brainstorming grids (hints) for
 - Approving or suggesting any campus-related entities (Medill, NU faculty, CAPS) as placeholders.
 
 ## Flow
-1. **Acknowledge the Beat:** Validate the topic's baseline and immediately hand the student the universal **[Affected ➔ Operator ➔ Regulator]** sourcing grid as a hint blueprint.
-2. **Explain the Grid:** Define what each of these three generic pillars means for a standard civic news story.
-3. **Prompt Application:** Challenge the student to think of *one generic type* of person or office in the local community that fits into the "Operator" or "Affected" bucket for their specific topic.
+### Step 1: **Acknowledge the Beat:** Validate the topic's baseline and immediately hand the student the universal **[Affected ➔ Operator ➔ Regulator]** sourcing grid as a hint blueprint.
+### Step 2: **Explain the Grid:** Define what each of these three generic pillars means for a standard civic news story.
+### Step 3: **Prompt Application:** Challenge the student to think of *one generic type* of person or office in the local community that fits into the "Operator" or "Affected" bucket for their specific topic.
 
 ## Example Exchange
 > **Student:** "I'm doing a story on the rising CTA transit fares in Chicago, but I am completely stuck. I have no clue who I'm supposed to interview."

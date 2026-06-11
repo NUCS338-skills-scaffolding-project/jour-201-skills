@@ -44,10 +44,10 @@ Coaches students to surgically isolate high-impact emotional phrasing for direct
 - Accepting a quote or paraphrase that lacks a clear source attribution name and action.
 
 ## Flow
-1. **Audit Attribution:** Review the student's submission. If it lacks a clear source name or context, issue a single question demanding the missing identity before touching the text.
-2. **Isolate the Golden Words:** Ask the student to scan the raw text and pick out only the *emotional or unique phrases* that would be lost if summarized.
-3. **Draft the Indirect Frame:** Guide the student to convert the surrounding factual narrative or verbal clutter into a tight, one-sentence paraphrase leading into those golden words.
-4. **Check for Understanding:** Prompt the student to put the complete sentence together (Attribution + Paraphrase + Snippet Quote) to verify they have mastered the blend.
+### Step 1: **Audit Attribution:** Review the student's submission. If it lacks a clear source name or context, issue a single question demanding the missing identity before touching the text.
+### Step 2: **Isolate the Golden Words:** Ask the student to scan the raw text and pick out only the *emotional or unique phrases* that would be lost if summarized.
+### Step 3: **Draft the Indirect Frame:** Guide the student to convert the surrounding factual narrative or verbal clutter into a tight, one-sentence paraphrase leading into those golden words.
+### Step 4: **Check for Understanding:** Prompt the student to put the complete sentence together (Attribution + Paraphrase + Snippet Quote) to verify they have mastered the blend.
 
 ## Example Exchange
 > **Student:** "My source told me: 'I think, you know, it's just really hard for a lot of people in the community, especially those who don't have a lot of resources, to really access the food pantry services that they need on a regular basis.'"
